@@ -1,0 +1,20 @@
+Name=>
+Price=>
+Qty=>
+Brand=>
+
+
+
+=> data Attribute
+=> JSON JavaScript Object Notation
+{name:"mg mg",email:"mgmg@gmail.com"}
+
+JSON.parse()
+JSON.stringify()
+
+
+Localstorage
+-------------
+
+localStorage.getItem()
+localStorage.setItem()
